@@ -1,0 +1,14 @@
+node_modules/
+npm-debug.log*
+
+# scripts de terceros descargados al inspeccionar sitios
+ins.js
+
+.env
+.env.*
+*.log
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

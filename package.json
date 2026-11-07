@@ -1,0 +1,16 @@
+{
+  "name": "endpoint-discovery",
+  "version": "1.0.0",
+  "description": "Muestra en consola las respuestas JSON que carga un sitio (descubrimiento de endpoints)",
+  "main": "playwr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
