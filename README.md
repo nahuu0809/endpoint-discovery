@@ -30,3 +30,11 @@ Es una herramienta de observación: ve lo mismo que ve el navegador al navegar. 
 
 - Es un experimento corto, sin tests ni configuración.
 - Los scripts de terceros que se descargan al navegar (por ejemplo bibliotecas de analítica) no forman parte de este repositorio.
+
+## Créditos
+
+Usa [Playwright](https://playwright.dev) (Microsoft, Apache-2.0).
+
+## Licencia
+
+Código bajo [licencia MIT](LICENSE). © 2026 Nahuel Emiliano Diaz.
